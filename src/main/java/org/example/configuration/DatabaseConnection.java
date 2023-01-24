@@ -9,12 +9,12 @@ public class DatabaseConnection {
 
     public DatabaseConnection() throws Exception {
         connection = DriverManager.getConnection(
-                "right url postgresql",
-                "user name you're postgresql",
-                "and password" );
+                "jdbc:postgresql://localhost:5432/postgres",
+                "postgres",
+                "iamnumber1");
     }
 
-    public Connection getConnection(){
+    public Connection getConnection() {
         return connection;
     }
 
