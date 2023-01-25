@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40772379-e1d3-47c6-9ce3-ff9cea56f938" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6578746c-405d-4d84-af08-dda19fa44f29.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/configuration/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/configuration/DatabaseConnection.java" afterDir="false" />
+    <list default="true" id="40772379-e1d3-47c6-9ce3-ff9cea56f938" name="Changes" comment="Hello my friend.">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/repository/PersonRepoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/repository/PersonRepoImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,8 +97,30 @@
       <option name="presentableId" value="Default" />
       <updated>1674553300311</updated>
       <workItem from="1674553301845" duration="3858000" />
-      <workItem from="1674557818038" duration="477000" />
+      <workItem from="1674557818038" duration="4215000" />
     </task>
+    <task id="LOCAL-00001" summary="Hello my friend.">
+      <created>1674558344600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674558344600</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Hello my friend.">
+      <created>1674558505808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674558505808</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Hello my friend.">
+      <created>1674558588588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674558588588</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,5 +136,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hello my friend." />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello my friend." />
   </component>
 </project>
